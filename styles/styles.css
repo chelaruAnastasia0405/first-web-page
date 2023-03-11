@@ -1,0 +1,121 @@
+.companyName {
+    color: #9945FF;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 52px;
+}
+
+.sidebar-section {
+    background: #2C00FF0A;
+
+}
+
+.sidebar-section h3 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.portofolio a {
+    color: #A300FF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.miau {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.name {
+    margin-bottom: 187px;
+    margin-left: 60px;
+    margin-top: 220px;
+}
+
+.about-me {
+    margin-left: 78px;
+    margin-bottom: 40px;
+    margin-right: 168px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.experience {
+    margin-left: 78px;
+    margin-bottom: 265px;
+    margin-right: 168px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.first-li {
+    margin-left: 32px;
+    margin-bottom: 28 px;
+    margin-right: 168px;
+}
+
+.second-li {
+    margin-top: 16px;
+}
+
+.contact {
+    margin-top: 101px;
+    margin-left: 109px;
+    margin-right: 109px;
+    margin-bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.tools-skills {
+    margin-left: 113px;
+    margin-right: 113px;
+    margin-top: 30px;
+    margin-bottom: 37px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.education {
+    margin-left: 106px;
+    margin-right: 107px;
+    margin-bottom: 24px;
+    margin-top: 26px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+#portofolio {
+    margin-top: 24px;
+    margin-left: 111px;
+    margin-right: 111px;
+    margin-bottom: 33px;
+}
+
+.lan
